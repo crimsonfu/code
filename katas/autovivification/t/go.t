@@ -4,8 +4,8 @@ use warnings;
 use Test::More;
 
 my @solutions = qw{
-  pdurbin-perl
-  pdurbin-ruby
+  pdurbin.pl
+  pdurbin.rb
 };
 
 my $num_tests = scalar @solutions;
