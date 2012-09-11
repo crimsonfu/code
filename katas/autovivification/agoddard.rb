@@ -84,7 +84,7 @@ issues.types.each do |type|
 end
 
 #data3 (combine data1 and data2 in single output)
-data3 = {:id_by_type => data2, :count => data1}
+data3 = {:counts => data1, :id_by_type => data2}
 
 
 #data4 (list all issue ids)
