@@ -88,7 +88,6 @@ data3 = {:id_by_type => data2, :count => data1}
 
 
 #data4 (list all issue ids)
-data4 = []
-data4 << issues.ids
+data4 = issues.ids
 
 puts JSON.pretty_generate([data1,data2,data3,data4])
