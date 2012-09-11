@@ -6,6 +6,7 @@ use Test::More;
 my @solutions = qw{
   pdurbin.pl
   pdurbin.rb
+  agoddard.rb
 };
 
 my $num_tests = scalar @solutions;
