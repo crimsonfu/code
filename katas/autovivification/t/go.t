@@ -8,6 +8,7 @@ my @solutions = qw{
   pdurbin.rb
   agoddard.rb
 };
+#larsks-gist-3695375.py
 
 my $num_tests = scalar @solutions;
 
