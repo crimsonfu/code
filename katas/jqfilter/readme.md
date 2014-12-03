@@ -12,7 +12,7 @@ Come up with jq commands to transform the given input into the desired output...
 
 ### Input
 
-    {"Objects": [{"a": 1, "b": "x"}, {"a": 2, "b": 1}, {"a": 3, "b": "x"}, {"a": 4, "b": "y"}, {"a": 5, "b": null}]}
+    {"Objects": [{"a": 1, "b": "xavier"}, {"a": 2, "b": 1}, {"a": 3, "b": "xylophone"}, {"a": 4, "b": "y"}, {"a": 5, "b": null}]}
 
 ### Output
 
