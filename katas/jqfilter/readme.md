@@ -8,7 +8,7 @@ I needed to filter a large list of AMIs produced by the AWS CLI.  I wanted to ge
 
 # Challenge
 
-Come up with jq commands to transform the given input into the desired output...
+Come up with jq commands to transform the given input into the desired output by printing "a" only if "b" starts with "x".
 
 ### Input
 
